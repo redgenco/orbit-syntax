@@ -20,8 +20,8 @@ A dark Atom syntax theme inspired by the depths of space.
 
 ---
 
-[Lunar Syntax] (https://atom.io/themes/lunar-syntax)
-[Module Syntax] (https://atom.io/themes/module-syntax)
+[Lunar Syntax] (https://atom.io/themes/lunar-syntax) :
+[Module Syntax] (https://atom.io/themes/module-syntax) :
 [Orbit Syntax] (https://atom.io/themes/orbit-syntax)
 
 ---
